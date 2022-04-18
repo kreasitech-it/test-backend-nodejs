@@ -21,6 +21,6 @@
    ```
 
 ### usage
-_for more examples, please refer to the [documentation](https://documenter.getpostman.com/view/8628483/Uyr5pKXg)_
+_for more examples, please refer to the [documentation](https://documenter.getpostman.com/view/8628483/Uyr5pKgb)_
 
 <p align="right">(<a href="#top">back to top</a>)</p>
