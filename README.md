@@ -1,4 +1,4 @@
-# test-basic-nodejs
+# test-backend-nodejs
 
 ### prerequisites
 * nodejs
@@ -8,7 +8,7 @@
 ### installation
 1. clone the repo
    ```sh
-   git clone https://github.com/rinnnaldi/test-basic-nodejs.git
+   git clone https://github.com/rinnnaldi/test-backend-nodejs.git
    ```
 2. install npm packages
    ```sh
